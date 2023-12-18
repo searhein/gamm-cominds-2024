@@ -9,7 +9,7 @@ layout: home
 ---
 
 <div class="container">
-  <img class="cropped-image none-image" src="/assets/img/tu_delft-campus.jpg" alt="EWI building TU Delft"/>
+  <img class="cropped-image none-image" src="assets/img/tu_delft-campus.jpg" alt="EWI building TU Delft"/>
   <div class="text-block delft">
     <h3>GAMM COMinDS Workshop 2024</h3>
     <p>Delft University of Technology, April 25-26, 2024
