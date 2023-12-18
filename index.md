@@ -36,7 +36,7 @@ The meeting will be organized under the support of
 
 ## Venue & Accommodation
 
-The *European Trilinos User Group Meeting 2023* will take place in the **Collegezaal** at the [Vakwerkhuis](https://vakwerkhuis.com/) close to the campus of the [Delft University of Technology](http://www.tudelft.nl/en/):
+The *GAMM COMinDS Workshop 2024* will take place in the **Collegezaal** at the [Vakwerkhuis](https://vakwerkhuis.com/) close to the campus of the [Delft University of Technology](http://www.tudelft.nl/en/):
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vakwerkhuis <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professor Snijdersstraat 2 <br>
