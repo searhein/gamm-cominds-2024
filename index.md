@@ -29,10 +29,13 @@ The meeting will be organized under the support of
 + the [4TU Applied Mathematics Institute (AMI)](https://www.4tu.nl/ami/) and
 + the [TU Delft Institute for Computational Science and Engineering (DCSE)](https://www.tudelft.nl/en/tu-delft-institute-for-computational-science-and-engineering).
 
+## Registration
 
-## Scientific programme
+**Registration will open soon.**
 
-**More information about the programme will follow soon...**
+## Scientific Programme
+
+**More information about the programme will follow soon.**
 
 ## Venue & Accommodation
 
@@ -56,6 +59,6 @@ For accommodation, we recommend the following hotels:
 | *Hotel Casa Julia*             | [reservations@casajulia.nl](mailto:reservations@casajulia.nl) | [casajulia.nl](https://www.casajulia.nl/en)            | Maerten Trompstraat 33, 2628RC Delft |
 
 
-## Local organizing committee
+## Local Organizing Committee
 
 - [Dr. Alexander Heinlein](https://searhein.github.io) (TU Delft)
