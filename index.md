@@ -11,7 +11,7 @@ layout: home
 <div class="container">
   <img class="cropped-image none-image" src="assets/img/tu_delft-campus2.jpg" alt="EWI building TU Delft"/>
   <div class="text-block delft">
-    <h3>GAMM COMinDS Workshop 2024</h3>
+    <h3>Workshop on Computational and Mathematical Methods in Data Science 2024</h3>
     <p>Delft University of Technology, April 25-26, 2024
     <!-- <span style="float:right"><a href="https://forms.gle/6QDrKtrXcTT7Mw819" target="_blank">Link to registration</a></span> -->
     </p>
@@ -20,7 +20,7 @@ layout: home
 
 ## About the Workshop
 
-Welcome to the 2024 edition of the annual workshop of the [GAMM Activity Group on “Computational and Mathematical Methods in Data Science” (COMinDS)](https://www.tu-chemnitz.de/mathematik/wire/cominds/). This workshop will be hosted by [Delft University of Technology](http://www.tudelft.nl/en/), and it will take place on April 25 and 26, 2024. It is jointly organized by the [GAMM Activity Group on “Computational and Mathematical Methods in Data Science” (COMinDS)](https://www.tu-chemnitz.de/mathematik/wire/cominds/) and the [Strategic Research Initiative "Bridging Numerical Analysis and Machine Learning"](https://www.4tu.nl/ami/Research/sri-bridgingNAML/) of the the [4TU Applied Mathematics Institute (AMI)](https://www.4tu.nl/ami/).
+Welcome to the 2024 edition of the annual workshop of the [GAMM Activity Group on “Computational and Mathematical Methods in Data Science” (COMinDS)](https://www.tu-chemnitz.de/mathematik/wire/cominds/). This workshop will be hosted by [Delft University of Technology](http://www.tudelft.nl/en/), and it will take place on April 25 and 26, 2024. It is jointly organized by the [GAMM COMinDS Activity Group](https://www.tu-chemnitz.de/mathematik/wire/cominds/) and the [Strategic Research Initiative "Bridging Numerical Analysis and Machine Learning"](https://www.4tu.nl/ami/Research/sri-bridgingNAML/) of the the [4TU Applied Mathematics Institute (AMI)](https://www.4tu.nl/ami/).
 
 This workshop brings together scientists from mathematics, computer science, and application areas working on computational and mathematical methods in data science.
 
@@ -39,7 +39,7 @@ The meeting will be organized under the support of
 
 ## Venue & Accommodation
 
-The *GAMM COMinDS Workshop 2024* will take place in the **Collegezaal** at the [Vakwerkhuis](https://vakwerkhuis.com/) close to the campus of the [Delft University of Technology](http://www.tudelft.nl/en/):
+The *Workshop on  Computational and Mathematical Methods in Data Science* will take place in the **Collegezaal** at the [Vakwerkhuis](https://vakwerkhuis.com/) close to the campus of the [Delft University of Technology](http://www.tudelft.nl/en/):
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vakwerkhuis <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professor Snijdersstraat 2 <br>
