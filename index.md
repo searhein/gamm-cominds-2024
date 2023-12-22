@@ -20,7 +20,7 @@ layout: home
 
 ## About the Workshop
 
-Welcome to the 2024 edition of the annual workshop of the [GAMM Activity Group on “Computational and Mathematical Methods in Data Science” (COMinDS)](https://www.tu-chemnitz.de/mathematik/wire/cominds/). This workshop will be hosted by [Delft University of Technology](http://www.tudelft.nl/en/), and it will take place on April 25 and 26, 2024. It is jointly organized by the [GAMM COMinDS Activity Group](https://www.tu-chemnitz.de/mathematik/wire/cominds/) and the [Strategic Research Initiative "Bridging Numerical Analysis and Machine Learning"](https://www.4tu.nl/ami/Research/sri-bridgingNAML/) of the the [4TU Applied Mathematics Institute (AMI)](https://www.4tu.nl/ami/).
+Welcome to the **Workshop on Computational and Mathematical Methods in Data Science 2024**. It is the 2024 edition of the annual workshop of the [GAMM Activity Group on “Computational and Mathematical Methods in Data Science” (COMinDS)](https://www.tu-chemnitz.de/mathematik/wire/cominds/) and is co-organized by the [Strategic Research Initiative "Bridging Numerical Analysis and Machine Learning"](https://www.4tu.nl/ami/Research/sri-bridgingNAML/) of the the [4TU Applied Mathematics Institute (AMI)](https://www.4tu.nl/ami/). The workshop will be hosted by [Delft University of Technology](http://www.tudelft.nl/en/) and take place on April 25 and 26, 2024.
 
 This workshop brings together scientists from mathematics, computer science, and application areas working on computational and mathematical methods in data science.
 
