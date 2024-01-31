@@ -20,7 +20,7 @@ layout: home
 
 ## About the Workshop
 
-Welcome to the **Workshop on Computational and Mathematical Methods in Data Science 2024**. It is the 2024 edition of the annual workshop of the [GAMM Activity Group on “Computational and Mathematical Methods in Data Science” (COMinDS)](https://www.tu-chemnitz.de/mathematik/wire/cominds/) and is co-organized by the [Strategic Research Initiative "Bridging Numerical Analysis and Machine Learning"](https://www.4tu.nl/ami/Research/sri-bridgingNAML/) of the the [4TU Applied Mathematics Institute (AMI)](https://www.4tu.nl/ami/). The workshop will be hosted by [Delft University of Technology](http://www.tudelft.nl/en/) and take place on April 25 and 26, 2024.
+Welcome to the **Workshop on Computational and Mathematical Methods in Data Science 2024**. It is a meeting of the Dutch scientific machine learning community as well as the 2024 edition of the annual workshop of the [GAMM Activity Group on “Computational and Mathematical Methods in Data Science” (COMinDS)](https://www.tu-chemnitz.de/mathematik/wire/cominds/) and is co-organized by the [Strategic Research Initiative "Bridging Numerical Analysis and Machine Learning"](https://www.4tu.nl/ami/Research/sri-bridgingNAML/) of the the [4TU Applied Mathematics Institute (AMI)](https://www.4tu.nl/ami/). The workshop will be hosted by [Delft University of Technology](http://www.tudelft.nl/en/) and take place on April 25 and 26, 2024.
 
 This workshop brings together scientists from mathematics, computer science, and application areas working on computational and mathematical methods in data science.
 
@@ -34,6 +34,12 @@ The meeting will be organized under the support of
 **Registration will open soon.**
 
 ## Scientific Programme
+
+Confirmed keynote speakers:
+
++ [Victorita Dolean (TU Eindhoven)](http://www.victoritadolean.com/)
++ [Christoph Brune (University of Twente)](https://people.utwente.nl/c.brune)
++ [Thomas Richter (Otto von Guericke University Magdeburg)](https://numerics.ovgu.de/)
 
 **More information about the programme will follow soon.**
 
