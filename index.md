@@ -20,7 +20,7 @@ layout: home
 
 ## About the Workshop
 
-Welcome to the **Workshop on Computational and Mathematical Methods in Data Science 2024**. It is a meeting of the Dutch scientific machine learning community as well as the 2024 edition of the annual workshop of the [GAMM Activity Group on “Computational and Mathematical Methods in Data Science” (COMinDS)](https://www.tu-chemnitz.de/mathematik/wire/cominds/) and is co-organized by the [Strategic Research Initiative "Bridging Numerical Analysis and Machine Learning"](https://www.4tu.nl/ami/Research/sri-bridgingNAML/) of the the [4TU Applied Mathematics Institute (AMI)](https://www.4tu.nl/ami/). The workshop will be hosted by [Delft University of Technology](http://www.tudelft.nl/en/) and take place on April 25 and 26, 2024.
+Welcome to the **Workshop on Computational and Mathematical Methods in Data Science 2024**. It is a meeting of the Dutch scientific machine learning community as well as the 2024 edition of the annual workshop of the [GAMM Activity Group on “Computational and Mathematical Methods in Data Science” (COMinDS)](https://www.tu-chemnitz.de/mathematik/wire/cominds/). The workshop is co-organized by the GAMM Activity Group and the [Strategic Research Initiative "Bridging Numerical Analysis and Machine Learning"](https://www.4tu.nl/ami/Research/sri-bridgingNAML/) of the the [4TU Applied Mathematics Institute (AMI)](https://www.4tu.nl/ami/). The workshop will be hosted by [Delft University of Technology](http://www.tudelft.nl/en/) and take place on April 25 and 26, 2024.
 
 This workshop brings together scientists from mathematics, computer science, and application areas working on computational and mathematical methods in data science.
 
@@ -31,9 +31,9 @@ The meeting will be organized under the support of
 
 ## Registration
 
-In order to participate in the EuroTUG Meeting 2023, please **fill the <a href="https://forms.gle/qCHRyh6GF3zJq1Pz6" target="_blank">registration form</a> prior to April 1, 2024**. Registration is required for speakers as well as attendees without a contribution.
+In order to participate in the GAMM LogoCOMinDS Workshop 2024, please **fill the <a href="https://forms.gle/qCHRyh6GF3zJq1Pz6" target="_blank">registration form</a> prior to April 1, 2024**. Registration is required for speakers as well as attendees without a contribution.
 
-The registration fee is 100€ and includes the conference dinner on Thursday, April 25.
+The registration fee is 100€, and it includes the conference dinner on Thursday, April 25.
 
 If you have any questions or trouble with the registration, feel free to contact us via email at [a.heinlein@tudelft.nl](mailto:a.heinlein@tudelft.nl).
 
