@@ -62,7 +62,7 @@ Confirmed keynote speakers:
 | Time (CEST) | Topic | Speaker |
 | ----------- | ----------- | ----------- |
 | 9.00 | Begin of the program |         |
-| 15:00       | End of the program   |         |
+| TBA       | End of the program   |         |
 
 
 
