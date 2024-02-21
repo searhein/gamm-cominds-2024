@@ -33,7 +33,7 @@ The meeting will be organized under the support of
 
 In order to participate in the GAMM LogoCOMinDS Workshop 2024, please **fill the <a href="https://forms.gle/qCHRyh6GF3zJq1Pz6" target="_blank">registration form</a> prior to April 1, 2024**. Registration is required for speakers as well as attendees without a contribution.
 
-The registration fee is 100€, and it includes the conference dinner on Thursday, April 25.
+The registration fee is 100€, and it includes also the coffee breaks, lunches, and the conference dinner on Thursday, April 25.
 
 If you have any questions or trouble with the registration, feel free to contact us via email at [a.heinlein@tudelft.nl](mailto:a.heinlein@tudelft.nl).
 
@@ -57,14 +57,10 @@ Confirmed keynote speakers:
 
 **Friday, 26. April 2024**
 
-
-
 | Time (CEST) | Topic | Speaker |
 | ----------- | ----------- | ----------- |
 | 9.00 | Begin of the program |         |
 | TBA       | End of the program   |         |
-
-
 
 ## Venue & Accommodation
 
