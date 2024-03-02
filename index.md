@@ -41,8 +41,9 @@ If you have any questions or trouble with the registration, feel free to contact
 
 Confirmed keynote speakers:
 
-+ [Victorita Dolean (TU Eindhoven)](http://www.victoritadolean.com/)
 + [Christoph Brune (University of Twente)](https://people.utwente.nl/c.brune)
++ [Victorita Dolean (TU Eindhoven)](http://www.victoritadolean.com/)
++ [Olga Mula (TU Eindhoven)](https://omula.gitlab.io/)
 + [Thomas Richter (Otto von Guericke University Magdeburg)](https://numerics.ovgu.de/)
 
 **Thursday, 25. April 2024**
@@ -61,6 +62,7 @@ Confirmed keynote speakers:
 | ----------- | ----------- | ----------- |
 | 9.00 | Begin of the program |         |
 | TBA       | End of the program   |         |
+
 
 ## Venue & Accommodation
 
