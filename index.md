@@ -41,10 +41,10 @@ If you have any questions or trouble with the registration, feel free to contact
 
 Confirmed keynote speakers:
 
-+ [Christoph Brune (University of Twente)](https://people.utwente.nl/c.brune)
-+ [Victorita Dolean (TU Eindhoven)](http://www.victoritadolean.com/)
-+ [Olga Mula (TU Eindhoven)](https://omula.gitlab.io/)
-+ [Thomas Richter (Otto von Guericke University Magdeburg)](https://numerics.ovgu.de/)
++ [**Christoph Brune (University of Twente)**](https://people.utwente.nl/c.brune) <br/> TBA
++ [**Victorita Dolean (TU Eindhoven)**](http://www.victoritadolean.com/) <br/> [*Parallelization approaches for neural network-based collocation methods*](assets/pdf/abstract-dolean.pdf)
++ [**Olga Mula (TU Eindhoven)**](https://omula.gitlab.io/) <br/> TBA
++ [**Thomas Richter (Otto von Guericke University Magdeburg)**](https://numerics.ovgu.de/) <br/> TBA
 
 **Thursday, 25. April 2024**
 
