@@ -44,7 +44,7 @@ Confirmed keynote speakers:
 + [**Christoph Brune (University of Twente)**](https://people.utwente.nl/c.brune) <br/> TBA
 + [**Victorita Dolean (TU Eindhoven)**](http://www.victoritadolean.com/) <br/> [*Parallelization approaches for neural network-based collocation methods*](assets/pdf/abstract-dolean.pdf)
 + [**Olga Mula (TU Eindhoven)**](https://omula.gitlab.io/) <br/> TBA
-+ [**Thomas Richter (Otto von Guericke University Magdeburg)**](https://numerics.ovgu.de/) <br/> TBA
++ [**Thomas Richter (Otto von Guericke University Magdeburg)**](https://numerics.ovgu.de/) <br/> [*Hybrid Finite Element / Neural Network simulations*](assets/pdf/abstract-richter.pdf)
 
 **Thursday, 25. April 2024**
 
