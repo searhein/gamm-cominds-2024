@@ -46,23 +46,39 @@ Confirmed keynote speakers:
 + [**Olga Mula (TU Eindhoven)**](https://omula.gitlab.io/) <br/> TBA
 + [**Thomas Richter (Otto von Guericke University Magdeburg)**](https://numerics.ovgu.de/) <br/> [*Hybrid Finite Element / Neural Network simulations*](assets/pdf/abstract-richter.pdf)
 
+> **Please find a preliminary version of the program below. It may still be subject to changes.**
+
 **Thursday, 25. April 2024**
 
-> **More information about the programme will follow soon.**
-
-| Time (CEST) | Topic | Speaker |
+| Time (CET) | Topic | Speaker |
 | ----------- | ----------- | ----------- |
-| 9.30 | Registration |  |
-| 10.00 | Opening |  |
-| 19.00 | Conference dinner | |
+| 8.30 - 9.00 | Registration |  |
+| 9.00 - 9.15 | Opening |  |
+| 9.15 - 10.15 | Keynote talk |  |
+| 10.15 - 10.30 | Coffee break |  |
+| 10.30 - 12.00 | Contributed talks |  |
+| 12.00 - 13.30 | **Poster session** / Lunch break |  |
+| 13.30 - 14.30 | Keynote talk |  |
+| 14.30 - 15.00 | Contributed talk |  |
+| 15.00 - 15.30 | Coffee break |  |
+| 15.30 - 16.30 | Contributed talks |  |
+| 16.30 - 16.45 | Coffee break |  |
+| 16.45 - 17.15 | GAMM COMinDS meeting |  |
+| 17.15 | End of the program |  |
+| TBA | Conference dinner |  |
 
 **Friday, 26. April 2024**
 
-| Time (CEST) | Topic | Speaker |
+| Time (CET) | Topic | Speaker |
 | ----------- | ----------- | ----------- |
-| 9.00 | Begin of the program |         |
-| TBA       | End of the program   |         |
-
+| 9.00 - 10.00 | Keynote talk |         |
+| 10.00 - 10.30 | Coffee break |         |
+| 10.30 - 12.00 | Contributed talks  |         |
+| 12.00 - 13.00 | Lunch break  |         |
+| 13.00 - 14.00 | Keynote talk  |         |
+| 14.00 - 14.30 | Coffee break  |         |
+| 14.30 - 15.30 | Cotributed talks  |         |
+| 15.30 | Closing |  |
 
 ## Venue & Accommodation
 
