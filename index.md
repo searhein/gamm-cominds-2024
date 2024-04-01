@@ -39,11 +39,11 @@ If you have any questions or trouble with the registration, feel free to contact
 
 ## Scientific Program
 
-Confirmed keynote speakers:
+Confirmed **keynote speakers**:
 
 + [**Christoph Brune (University of Twente)**](https://people.utwente.nl/c.brune) <br/> TBA
 + [**Victorita Dolean (TU Eindhoven)**](http://www.victoritadolean.com/) <br/> [*Parallelization approaches for neural network-based collocation methods*](assets/pdf/abstract-dolean.pdf)
-+ [**Olga Mula (TU Eindhoven)**](https://omula.gitlab.io/) <br/> TBA
++ [**Olga Mula (TU Eindhoven)**](https://omula.gitlab.io/) <br/> [*Reduced Models in Wasserstein Spaces for Forward and Inverse Problems*](assets/pdf/abstract-mula.pdf)
 + [**Thomas Richter (Otto von Guericke University Magdeburg)**](https://numerics.ovgu.de/) <br/> [*Hybrid Finite Element / Neural Network simulations*](assets/pdf/abstract-richter.pdf)
 
 > **Please find a preliminary version of the program below. It may still be subject to changes.**
