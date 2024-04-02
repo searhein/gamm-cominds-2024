@@ -13,7 +13,7 @@ layout: home
   <div class="text-block delft">
     <h3>Workshop on Computational and Mathematical Methods in Data Science 2024</h3>
     <p>Delft University of Technology, April 25-26, 2024
-    <span style="float:right"><a href="https://forms.gle/qCHRyh6GF3zJq1Pz6" target="_blank">Link to registration</a></span>
+    <!-- <span style="float:right"><a href="https://forms.gle/qCHRyh6GF3zJq1Pz6" target="_blank">Link to registration</a></span> -->
     </p>
   </div>
 </div>
@@ -31,9 +31,11 @@ The meeting will be organized under the support of
 
 ## Registration
 
-In order to participate in the GAMM LogoCOMinDS Workshop 2024, please **fill the <a href="https://forms.gle/qCHRyh6GF3zJq1Pz6" target="_blank">registration form</a> prior to April 1, 2024**. Registration is required for speakers as well as attendees without a contribution.
+The registration for the GAMM COMinDS Workshop 2024 is **closed**.
 
-The registration fee is 100€, and it includes also the coffee breaks, lunches, and the conference dinner on Thursday, April 25.
+<!-- In order to participate in the GAMM COMinDS Workshop 2024, please **fill the <a href="https://forms.gle/qCHRyh6GF3zJq1Pz6" target="_blank">registration form</a> prior to April 1, 2024**. Registration is required for speakers as well as attendees without a contribution.
+
+The registration fee is 100€, and it includes also the coffee breaks, lunches, and the conference dinner on Thursday, April 25. -->
 
 If you have any questions or trouble with the registration, feel free to contact us via email at [a.heinlein@tudelft.nl](mailto:a.heinlein@tudelft.nl).
 
