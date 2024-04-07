@@ -41,46 +41,62 @@ If you have any questions or trouble with the registration, feel free to contact
 
 ## Scientific Program
 
-Confirmed **keynote speakers**:
+### Keynote speakers
 
 + [**Christoph Brune (University of Twente)**](https://people.utwente.nl/c.brune) <br/> TBA
 + [**Victorita Dolean (TU Eindhoven)**](http://www.victoritadolean.com/) <br/> [*Parallelization approaches for neural network-based collocation methods*](assets/pdf/abstract-dolean.pdf)
 + [**Olga Mula (TU Eindhoven)**](https://omula.gitlab.io/) <br/> [*Reduced Models in Wasserstein Spaces for Forward and Inverse Problems*](assets/pdf/abstract-mula.pdf)
 + [**Thomas Richter (Otto von Guericke University Magdeburg)**](https://numerics.ovgu.de/) <br/> [*Hybrid Finite Element / Neural Network simulations*](assets/pdf/abstract-richter.pdf)
 
-> **Please find a preliminary version of the program below. It may still be subject to changes.**
+### Thursday, 25. April 2024
 
-**Thursday, 25. April 2024**
+| Time (CET) | Speaker | Topic / Title | Room | Chair |
+| :---------- | :---------- | ----------- | ----------- | ----------- |
+| 8.30 |  | Registration & Presentation [Strategic Research Initiative *Bridging Numerical Analysis and Machine Learning*](https://www.4tu.nl/ami/Research/sri-bridgingNAML/) | Collegezaal |  |
+| 9.00 | Alexander Heinlein | Opening | Collegezaal |  |
+| 9.15 | Thomas Richter | [Hybrid Finite Element / Neural Network simulations](assets/pdf/abstract-richter.pdf) | Collegezaal |  |
+| 10.15 | Victor Michel-Dansac | [Approximately well-balanced Discontinuous Galerkin methods using bases enriched with Physics-Informed Neural Networks](assets/pdf/abstract-michel_dansac.pdf) | Collegezaal | |
+| 10.45 |  | Coffee break | Collegezaal |  |
+| 11.00 | Taniya Kapoor | [Enhancing Generalization in Physics-Informed Machine Learning with Neural Oscillators](assets/pdf/abstract-kapoor.pdf) | Collegezaal |  |
+| 11.30      | Konrad Janik | [Neural ODE for Hamiltonian Systems with Irregular and Noisy Data](assets/pdf/abstract-janik.pdf) | Collegezaal | |
+| 12.00 | Arturo De Marinis | [Training of stable neural ordinary differential equations](assets/pdf/abstract-de_marinis.pdf) | Collegezaal | |
+| 12.30 |  | Lunch break  & <br />[Poster session](assets/pdf/poster-session.pdf) | Collegezaal <br />Betazaal |  |
+| 14.00 | Victorita Dolean | [Parallelization approaches for neural network-based collocation methods](assets/pdf/abstract-dolean.pdf) | Collegezaal |  |
+| 15.00 | Felix Dietrich | [Solving partial differential equations with sampled neural networks](assets/pdf/abstract-dietrich.pdf) | Collegezaal |  |
+| 15.30 |  | Coffee break | Collegezaal |  |
+| 16.00 | Hanno Gottschalk | [Learning to Integrate](assets/pdf/abstract-gottschalk.pdf) | Collegezaal |  |
+| 16.30 | Axel Klawonn | Presentation [EMS Topical Activity Group *Scientific Machine Learning*](https://ems-tag-sciml.github.io/) | Collegezaal |  |
+| 16.40 | Axel Klawonn & Martin Stoll | GAMM COMinDS meeting | Collegezaal |  |
+| 17.00 | End of the program |  | Collegezaal |  |
+| TBA |  | Conference dinner:<br />[MOODZ eten & drinken ](https://www.moodzdelft.nl/)<br />Vesteplein 4 <br/>2611 WG Delft |                            |  |
 
-| Time (CET) | Topic | Speaker |
-| ----------- | ----------- | ----------- |
-| 8.30 - 9.00 | Registration |  |
-| 9.00 - 9.15 | Opening |  |
-| 9.15 - 10.15 | Keynote talk |  |
-| 10.15 - 10.30 | Coffee break |  |
-| 10.30 - 12.00 | Contributed talks |  |
-| 12.00 - 13.30 | **Poster session** / Lunch break |  |
-| 13.30 - 14.30 | Keynote talk |  |
-| 14.30 - 15.00 | Contributed talk |  |
-| 15.00 - 15.30 | Coffee break |  |
-| 15.30 - 16.30 | Contributed talks |  |
-| 16.30 - 16.45 | Coffee break |  |
-| 16.45 - 17.15 | GAMM COMinDS meeting |  |
-| 17.15 | End of the program |  |
-| TBA | Conference dinner |  |
+### Friday, 26. April 2024
 
-**Friday, 26. April 2024**
+| Time (CET) | Speaker | Topic / Title | Room | Chair |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| 9.30 - 10.30 | Christoph Brune | TBA | Collegezaal |  |
+| 10.30 - 11.00 | Jasper Rou | [Deep Gradient Flow Methods for Option Pricing in Diffusion Models](assets/pdf/abstract-rou.pdf) | Collegezaal |   |
+| 11.00 - 11.30 |  | Coffee break | Collegezaal |  |
+| 11.30 - 12.00 | Florian Boßmann | [Stabilizing neural networks using iterated Graph Laplacian - a seismic impedance example](assets/pdf/abstract-bossman.pdf) | Collegezaal |   |
+| 12.00 - 12.30 | Alexander Litvinenko | [Computing f-divergences, probability density and characteristic functions in low-rank tensor format](assets/pdf/) | Collegezaal |   |
+| 12.30 - 13.30 |         | Lunch break | Collegezaal |   |
+| 13.30 - 14.30 | Olga Mula | [Reduced Models in Wasserstein Spaces for Forward and Inverse Problems](assets/pdf/abstract-mula.pdf) | Collegezaal |   |
+| 14.30 - 15.00 | Francesco Ferranti | [Response feature-based modeling for small-data machine learning in electromagnetic design](assets/pdf/abstract-ferranti.pdf) | Collegezaal |  |
+| 15.00 |  | Closing with coffee and snacks | Collegezaal |  |
 
-| Time (CET) | Topic | Speaker |
-| ----------- | ----------- | ----------- |
-| 9.00 - 10.00 | Keynote talk |         |
-| 10.00 - 10.30 | Coffee break |         |
-| 10.30 - 12.00 | Contributed talks  |         |
-| 12.00 - 13.00 | Lunch break  |         |
-| 13.00 - 14.00 | Keynote talk  |         |
-| 14.00 - 14.30 | Coffee break  |         |
-| 14.30 - 15.30 | Cotributed talks  |         |
-| 15.30 | Closing |  |
+### Poster session
+
+| Presenter            | Title                                                        |
+| -------------------- | ------------------------------------------------------------ |
+| Junaid Akhter        | [Pitfalls to avoid while using multiobjective optimization for machine learning](assets/pdf/posters/poster-akhter.pdf) |
+| Roberto Bentivoglio  | [Multi-scale hydraulic-based graph neural networks: generalizing rapid flood mapping to irregular meshes and time-varying boundary condition](assets/pdf/posters/poster-bentivoglio.pdf) |
+| Jan Blechschmidt     | [A physics-informed DeepONet model for the solution of quantum graphs](assets/pdf/posters/poster-blechschmidt.pdf) |
+| Piero Deidda         | [Nonlinear joint spectral radius of cone order preserving functions](assets/pdf/posters/poster-deidda.pdf) |
+| Antoine Lechevallier | [Hybrid Newton method for the acceleration of well events handling in the numerical simulation of CO2 Storage](assets/pdf/posters/poster-lechevallier.pdf) |
+| Erion Morina         | [On the growth of parameters of approximating neural networks](assets/pdf/posters/poster-morina.pdf) |
+| Moreno Pintore       | [An introduction to the lowest-order Neural Approximated Virtual Element Method](assets/pdf/posters/poster-pintore.pdf) |
+| Yong Shang           | [Randomized Neural Networks with Petrov–Galerkin Methods for Solving Linear Elasticity problem](assets/pdf/posters/poster-shang.pdf) |
+| Corné Verburg        | [High-resolution image segmentation with U-Net-based segmentation CNN on multiple GPUs](assets/pdf/posters/poster-verburg.pdf) |
 
 ## Venue & Accommodation
 
