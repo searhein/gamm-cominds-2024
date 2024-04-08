@@ -77,8 +77,8 @@ If you have any questions or trouble with the registration, feel free to contact
 | 9.30 - 10.30 | Christoph Brune | TBA | Collegezaal |  |
 | 10.30 - 11.00 | Jasper Rou | [Deep Gradient Flow Methods for Option Pricing in Diffusion Models](assets/pdf/abstract-rou.pdf) | Collegezaal |   |
 | 11.00 - 11.30 |  | Coffee break | Collegezaal |  |
-| 11.30 - 12.00 | Florian Boßmann | [Stabilizing neural networks using iterated Graph Laplacian - a seismic impedance example](assets/pdf/abstract-bossman.pdf) | Collegezaal |   |
-| 12.00 - 12.30 | Alexander Litvinenko | [Computing f-divergences, probability density and characteristic functions in low-rank tensor format](assets/pdf/) | Collegezaal |   |
+| 11.30 - 12.00 | Florian Boßmann | [Stabilizing neural networks using iterated Graph Laplacian - a seismic impedance example](assets/pdf/abstract-bossmann.pdf) | Collegezaal |   |
+| 12.00 - 12.30 | Alexander Litvinenko | [Computing f-divergences, probability density and characteristic functions in low-rank tensor format](assets/pdf/abstract-litvinenko.pdf) | Collegezaal |   |
 | 12.30 - 13.30 |         | Lunch break | Collegezaal |   |
 | 13.30 - 14.30 | Olga Mula | [Reduced Models in Wasserstein Spaces for Forward and Inverse Problems](assets/pdf/abstract-mula.pdf) | Collegezaal |   |
 | 14.30 - 15.00 | Francesco Ferranti | [Response feature-based modeling for small-data machine learning in electromagnetic design](assets/pdf/abstract-ferranti.pdf) | Collegezaal |  |
