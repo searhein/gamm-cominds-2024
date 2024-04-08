@@ -86,17 +86,18 @@ If you have any questions or trouble with the registration, feel free to contact
 
 ### Poster session
 
-| Presenter            | Title                                                        |
-| -------------------- | ------------------------------------------------------------ |
-| Junaid Akhter        | [Pitfalls to avoid while using multiobjective optimization for machine learning](assets/pdf/posters/poster-akhter.pdf) |
-| Roberto Bentivoglio  | [Multi-scale hydraulic-based graph neural networks: generalizing rapid flood mapping to irregular meshes and time-varying boundary condition](assets/pdf/posters/poster-bentivoglio.pdf) |
-| Jan Blechschmidt     | [A physics-informed DeepONet model for the solution of quantum graphs](assets/pdf/posters/poster-blechschmidt.pdf) |
-| Piero Deidda         | [Nonlinear joint spectral radius of cone order preserving functions](assets/pdf/posters/poster-deidda.pdf) |
-| Antoine Lechevallier | [Hybrid Newton method for the acceleration of well events handling in the numerical simulation of CO2 Storage](assets/pdf/posters/poster-lechevallier.pdf) |
-| Erion Morina         | [On the growth of parameters of approximating neural networks](assets/pdf/posters/poster-morina.pdf) |
-| Moreno Pintore       | [An introduction to the lowest-order Neural Approximated Virtual Element Method](assets/pdf/posters/poster-pintore.pdf) |
-| Yong Shang           | [Randomized Neural Networks with Petrov–Galerkin Methods for Solving Linear Elasticity problem](assets/pdf/posters/poster-shang.pdf) |
-| Corné Verburg        | [High-resolution image segmentation with U-Net-based segmentation CNN on multiple GPUs](assets/pdf/posters/poster-verburg.pdf) |
+| Presenter              | Title                                                        |
+| ---------------------- | ------------------------------------------------------------ |
+| Junaid Akhter          | [Pitfalls to avoid while using multiobjective optimization for machine learning](assets/pdf/posters/poster-akhter.pdf) |
+| Amaury Bélières Frendo | [Geometric shape optimization for Dirichlet energy with physics informed and symplectic neural networks](assets/pdf/posters/poster-belieres.pdf) |
+| Roberto Bentivoglio    | [Multi-scale hydraulic-based graph neural networks: generalizing rapid flood mapping to irregular meshes and time-varying boundary condition](assets/pdf/posters/poster-bentivoglio.pdf) |
+| Jan Blechschmidt       | [A physics-informed DeepONet model for the solution of quantum graphs](assets/pdf/posters/poster-blechschmidt.pdf) |
+| Piero Deidda           | [Nonlinear joint spectral radius of cone order preserving functions](assets/pdf/posters/poster-deidda.pdf) |
+| Antoine Lechevallier   | [Hybrid Newton method for the acceleration of well events handling in the numerical simulation of CO2 Storage](assets/pdf/posters/poster-lechevallier.pdf) |
+| Erion Morina           | [On the growth of parameters of approximating neural networks](assets/pdf/posters/poster-morina.pdf) |
+| Moreno Pintore         | [An introduction to the lowest-order Neural Approximated Virtual Element Method](assets/pdf/posters/poster-pintore.pdf) |
+| Yong Shang             | [Randomized neural networks with Petrov–Galerkin methods for solving linear elasticity problem](assets/pdf/posters/poster-shang.pdf) |
+| Corné Verburg          | [High-resolution image segmentation with U-Net-based segmentation CNN on multiple GPUs](assets/pdf/posters/poster-verburg.pdf) |
 
 ## Venue & Accommodation
 
