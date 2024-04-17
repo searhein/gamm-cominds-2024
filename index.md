@@ -54,17 +54,17 @@ If you have any questions or trouble with the registration, feel free to contact
 | :---------- | :---------- | ----------- | ----------- | ----------- |
 | 8.30 |  | Registration & Presentation [Strategic Research Initiative *Bridging Numerical Analysis and Machine Learning*](https://www.4tu.nl/ami/Research/sri-bridgingNAML/) | Collegezaal |  |
 | 9.00 | Alexander Heinlein | Opening | Collegezaal |  |
-| 9.15 | Thomas Richter | [Hybrid Finite Element / Neural Network simulations](assets/pdf/abstract-richter.pdf) | Collegezaal |  |
-| 10.15 | Victor Michel-Dansac | [Approximately well-balanced Discontinuous Galerkin methods using bases enriched with Physics-Informed Neural Networks](assets/pdf/abstract-michel_dansac.pdf) | Collegezaal | |
+| 9.15 | Thomas Richter | [Hybrid Finite Element / Neural Network simulations](assets/pdf/abstract-richter.pdf) | Collegezaal | Alexander Heinlein |
+| 10.15 | Victor Michel-Dansac | [Approximately well-balanced Discontinuous Galerkin methods using bases enriched with Physics-Informed Neural Networks](assets/pdf/abstract-michel_dansac.pdf) | Collegezaal | Alexander Heinlein |
 | 10.45 |  | Coffee break | Collegezaal |  |
-| 11.00 | Taniya Kapoor | [Enhancing Generalization in Physics-Informed Machine Learning with Neural Oscillators](assets/pdf/abstract-kapoor.pdf) | Collegezaal |  |
-| 11.30      | Konrad Janik | [Neural ODE for Hamiltonian Systems with Irregular and Noisy Data](assets/pdf/abstract-janik.pdf) | Collegezaal | |
-| 12.00 | Arturo De Marinis | [Training of stable neural ordinary differential equations](assets/pdf/abstract-de_marinis.pdf) | Collegezaal | |
+| 11.00 | Taniya Kapoor | [Enhancing Generalization in Physics-Informed Machine Learning with Neural Oscillators](assets/pdf/abstract-kapoor.pdf) | Collegezaal | Janine Weber |
+| 11.30      | Konrad Janik | [Neural ODE for Hamiltonian Systems with Irregular and Noisy Data](assets/pdf/abstract-janik.pdf) | Collegezaal | Janine Weber |
+| 12.00 | Arturo De Marinis | [Training of stable neural ordinary differential equations](assets/pdf/abstract-de_marinis.pdf) | Collegezaal | Janine Weber |
 | 12.30 |  | Lunch break  & <br />[Poster session](assets/pdf/poster-session.pdf) | Collegezaal <br />Betazaal |  |
-| 14.00 | Victorita Dolean | [Parallelization approaches for neural network-based collocation methods](assets/pdf/abstract-dolean.pdf) | Collegezaal |  |
-| 15.00 | Felix Dietrich | [Solving partial differential equations with sampled neural networks](assets/pdf/abstract-dietrich.pdf) | Collegezaal |  |
+| 14.00 | Victorita Dolean | [Parallelization approaches for neural network-based collocation methods](assets/pdf/abstract-dolean.pdf) | Collegezaal | Thomas Richter |
+| 15.00 | Felix Dietrich | [Solving partial differential equations with sampled neural networks](assets/pdf/abstract-dietrich.pdf) | Collegezaal | Thomas Richter |
 | 15.30 |  | Coffee break | Collegezaal |  |
-| 16.00 | Hanno Gottschalk | [Learning to Integrate](assets/pdf/abstract-gottschalk.pdf) | Collegezaal |  |
+| 16.00 | Hanno Gottschalk | [Learning to Integrate](assets/pdf/abstract-gottschalk.pdf) | Collegezaal | Axel Klawonn |
 | 16.30 | Axel Klawonn | Presentation [EMS Topical Activity Group *Scientific Machine Learning*](https://ems-tag-sciml.github.io/) | Collegezaal |  |
 | 16.40 | Axel Klawonn & Martin Stoll | GAMM COMinDS meeting | Collegezaal |  |
 | 17.00 | End of the program |  | Collegezaal |  |
@@ -74,14 +74,14 @@ If you have any questions or trouble with the registration, feel free to contact
 
 | Time (CET) | Speaker | Topic / Title | Room | Chair |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 9.30 - 10.30 | Christoph Brune | TBA | Collegezaal |  |
-| 10.30 - 11.00 | Jasper Rou | [Deep Gradient Flow Methods for Option Pricing in Diffusion Models](assets/pdf/abstract-rou.pdf) | Collegezaal |   |
+| 9.30 - 10.30 | Christoph Brune | TBA | Collegezaal | Victorita Dolean |
+| 10.30 - 11.00 | Jasper Rou | [Deep Gradient Flow Methods for Option Pricing in Diffusion Models](assets/pdf/abstract-rou.pdf) | Collegezaal | Victorita Dolean |
 | 11.00 - 11.30 |  | Coffee break | Collegezaal |  |
-| 11.30 - 12.00 | Florian Boßmann | [Stabilizing neural networks using iterated Graph Laplacian - a seismic impedance example](assets/pdf/abstract-bossmann.pdf) | Collegezaal |   |
-| 12.00 - 12.30 | Alexander Litvinenko | [Computing f-divergences, probability density and characteristic functions in low-rank tensor format](assets/pdf/abstract-litvinenko.pdf) | Collegezaal |   |
+| 11.30 - 12.00 | Florian Boßmann | [Stabilizing neural networks using iterated Graph Laplacian - a seismic impedance example](assets/pdf/abstract-bossmann.pdf) | Collegezaal | Christoph Brune |
+| 12.00 - 12.30 | Alexander Litvinenko | [Computing f-divergences, probability density and characteristic functions in low-rank tensor format](assets/pdf/abstract-litvinenko.pdf) | Collegezaal | Christoph Brune |
 | 12.30 - 13.30 |         | Lunch break | Collegezaal |   |
-| 13.30 - 14.30 | Olga Mula | [Reduced Models in Wasserstein Spaces for Forward and Inverse Problems](assets/pdf/abstract-mula.pdf) | Collegezaal |   |
-| 14.30 - 15.00 | Francesco Ferranti | [Response feature-based modeling for small-data machine learning in electromagnetic design](assets/pdf/abstract-ferranti.pdf) | Collegezaal |  |
+| 13.30 - 14.30 | Olga Mula | [Reduced Models in Wasserstein Spaces for Forward and Inverse Problems](assets/pdf/abstract-mula.pdf) | Collegezaal | Martin Stoll |
+| 14.30 - 15.00 | Francesco Ferranti | [Response feature-based modeling for small-data machine learning in electromagnetic design](assets/pdf/abstract-ferranti.pdf) | Collegezaal | Martin Stoll |
 | 15.00 |  | Closing with coffee and snacks | Collegezaal |  |
 
 ### Poster session
