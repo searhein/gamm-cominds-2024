@@ -103,9 +103,9 @@ If you have any questions or trouble with the registration, feel free to contact
 
 The *Workshop on  Computational and Mathematical Methods in Data Science* will take place in the **Collegezaal** at the [Vakwerkhuis](https://vakwerkhuis.com/) close to the campus of the [Delft University of Technology](http://www.tudelft.nl/en/):
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vakwerkhuis <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professor Snijdersstraat 2 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2628 RA Delft <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DUWO building <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professor Schermerhornstraat 4 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2628 PZ Delft <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Netherlands <br>
 
 More information will follow. Click <a href="https://www.delft.com/planning-your-trip/getting-there" target="_blank">here</a> for information on how to get to Delft.
