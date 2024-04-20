@@ -68,7 +68,7 @@ If you have any questions or trouble with the registration, feel free to contact
 | 16.30 | Axel Klawonn | Presentation [EMS Topical Activity Group *Scientific Machine Learning*](https://ems-tag-sciml.github.io/) | Collegezaal |  |
 | 16.40 | Axel Klawonn & Martin Stoll | GAMM COMinDS meeting | Collegezaal |  |
 | 17.00 | End of the program |  | Collegezaal |  |
-| TBA |  | Conference dinner:<br />[MOODZ eten & drinken ](https://www.moodzdelft.nl/)<br />Vesteplein 4 <br/>2611 WG Delft |                            |  |
+| 18.30 |  | Conference dinner:<br />[MOODZ eten & drinken ](https://www.moodzdelft.nl/)<br />Vesteplein 4 <br/>2611 WG Delft |                            |  |
 
 ### Friday, 26. April 2024
 
