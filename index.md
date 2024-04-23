@@ -52,8 +52,8 @@ If you have any questions or trouble with the registration, feel free to contact
 
 | Time (CET) | Speaker | Topic / Title | Room | Chair |
 | :---------- | :---------- | ----------- | ----------- | ----------- |
-| 8.30 |  | Registration & Presentation [Strategic Research Initiative *Bridging Numerical Analysis and Machine Learning*](https://www.4tu.nl/ami/Research/sri-bridgingNAML/) | Collegezaal |  |
-| 9.00 | Alexander Heinlein | Opening | Collegezaal |  |
+| 8.30 |  | Registration  | Collegezaal |  |
+| 9.00 | Alexander Heinlein | Opening & Presentation [Strategic Research Initiative *Bridging Numerical Analysis and Machine Learning*](https://www.4tu.nl/ami/Research/sri-bridgingNAML/) | Collegezaal |  |
 | 9.15 | Thomas Richter | [Hybrid Finite Element / Neural Network simulations](assets/pdf/abstract-richter.pdf) | Collegezaal | Alexander Heinlein |
 | 10.15 | Victor Michel-Dansac | [Approximately well-balanced Discontinuous Galerkin methods using bases enriched with Physics-Informed Neural Networks](assets/pdf/abstract-michel_dansac.pdf) | Collegezaal | Alexander Heinlein |
 | 10.45 |  | Coffee break | Collegezaal |  |
