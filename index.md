@@ -43,7 +43,7 @@ If you have any questions or trouble with the registration, feel free to contact
 
 ### Keynote speakers
 
-+ [**Christoph Brune (University of Twente)**](https://people.utwente.nl/c.brune) <br/> TBA
++ [**Christoph Brune (University of Twente)**](https://people.utwente.nl/c.brune) <br/> [*The Data-Weight Duality for Deep Learning Inverse Problems*](assets/pdf/abstract-brune.pdf)
 + [**Victorita Dolean (TU Eindhoven)**](http://www.victoritadolean.com/) <br/> [*Parallelization approaches for neural network-based collocation methods*](assets/pdf/abstract-dolean.pdf)
 + [**Olga Mula (TU Eindhoven)**](https://omula.gitlab.io/) <br/> [*Reduced Models in Wasserstein Spaces for Forward and Inverse Problems*](assets/pdf/abstract-mula.pdf)
 + [**Thomas Richter (Otto von Guericke University Magdeburg)**](https://numerics.ovgu.de/) <br/> [*Hybrid Finite Element / Neural Network simulations*](assets/pdf/abstract-richter.pdf)
@@ -74,7 +74,7 @@ If you have any questions or trouble with the registration, feel free to contact
 
 | Time (CET) | Speaker | Topic / Title | Room | Chair |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 9.30 - 10.30 | Christoph Brune | TBA | Collegezaal | Victorita Dolean |
+| 9.30 - 10.30 | Christoph Brune | [The Data-Weight Duality for Deep Learning Inverse Problems](assets/pdf/abstract-brune.pdf) | Collegezaal | Victorita Dolean |
 | 10.30 - 11.00 | Jasper Rou | [Deep Gradient Flow Methods for Option Pricing in Diffusion Models](assets/pdf/abstract-rou.pdf) | Collegezaal | Victorita Dolean |
 | 11.00 - 11.30 |  | Coffee break | Collegezaal |  |
 | 11.30 - 12.00 | Florian Boßmann | [Stabilizing neural networks using iterated Graph Laplacian - a seismic impedance example](assets/pdf/abstract-bossmann.pdf) | Collegezaal | Christoph Brune |
