@@ -60,7 +60,8 @@ If you have any questions or trouble with the registration, feel free to contact
 | 11.00 - 11.30 | Taniya Kapoor | [Enhancing Generalization in Physics-Informed Machine Learning with Neural Oscillators](assets/pdf/abstract-kapoor.pdf) | Collegezaal | Janine Weber |
 | 11.30 - 12.00 | Konrad Janik | [Neural ODE for Hamiltonian Systems with Irregular and Noisy Data](assets/pdf/abstract-janik.pdf) | Collegezaal | Janine Weber |
 | 12.00 - 12.30 | Arturo De Marinis | [Training of stable neural ordinary differential equations](assets/pdf/abstract-de_marinis.pdf) | Collegezaal | Janine Weber |
-| 12.30 - 13.00 |  | Lunch break  & <br />[Poster session](assets/pdf/poster-session.pdf) | Collegezaal <br />Betazaal |  |
+| 12.30 - 14.00  |  | Lunch break | Collegezaal |  |
+| 13.00 - 14.00 |  | [Poster session](assets/pdf/poster-session.pdf) | Betazaal |  |
 | 14.00 - 15.00 | Victorita Dolean | [Parallelization approaches for neural network-based collocation methods](assets/pdf/abstract-dolean.pdf) | Collegezaal | Thomas Richter |
 | 15.00 - 15.30 | Felix Dietrich | [Solving partial differential equations with sampled neural networks](assets/pdf/abstract-dietrich.pdf) | Collegezaal | Thomas Richter |
 | 15.30 - 16.00 |  | Coffee break | Collegezaal |  |
