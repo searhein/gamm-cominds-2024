@@ -52,21 +52,21 @@ If you have any questions or trouble with the registration, feel free to contact
 
 | Time (CET) | Speaker | Topic / Title | Room | Chair |
 | :---------- | :---------- | ----------- | ----------- | ----------- |
-| 8.30 |  | Registration  | Collegezaal |  |
-| 9.00 | Alexander Heinlein | Opening & Presentation [Strategic Research Initiative *Bridging Numerical Analysis and Machine Learning*](https://www.4tu.nl/ami/Research/sri-bridgingNAML/) | Collegezaal |  |
-| 9.15 | Thomas Richter | [Hybrid Finite Element / Neural Network simulations](assets/pdf/abstract-richter.pdf) | Collegezaal | Alexander Heinlein |
-| 10.15 | Victor Michel-Dansac | [Approximately well-balanced Discontinuous Galerkin methods using bases enriched with Physics-Informed Neural Networks](assets/pdf/abstract-michel_dansac.pdf) | Collegezaal | Alexander Heinlein |
-| 10.45 |  | Coffee break | Collegezaal |  |
-| 11.00 | Taniya Kapoor | [Enhancing Generalization in Physics-Informed Machine Learning with Neural Oscillators](assets/pdf/abstract-kapoor.pdf) | Collegezaal | Janine Weber |
-| 11.30      | Konrad Janik | [Neural ODE for Hamiltonian Systems with Irregular and Noisy Data](assets/pdf/abstract-janik.pdf) | Collegezaal | Janine Weber |
-| 12.00 | Arturo De Marinis | [Training of stable neural ordinary differential equations](assets/pdf/abstract-de_marinis.pdf) | Collegezaal | Janine Weber |
-| 12.30 |  | Lunch break  & <br />[Poster session](assets/pdf/poster-session.pdf) | Collegezaal <br />Betazaal |  |
-| 14.00 | Victorita Dolean | [Parallelization approaches for neural network-based collocation methods](assets/pdf/abstract-dolean.pdf) | Collegezaal | Thomas Richter |
-| 15.00 | Felix Dietrich | [Solving partial differential equations with sampled neural networks](assets/pdf/abstract-dietrich.pdf) | Collegezaal | Thomas Richter |
-| 15.30 |  | Coffee break | Collegezaal |  |
-| 16.00 | Hanno Gottschalk | [Learning to Integrate](assets/pdf/abstract-gottschalk.pdf) | Collegezaal | Axel Klawonn |
-| 16.30 | Axel Klawonn | Presentation [EMS Topical Activity Group *Scientific Machine Learning*](https://ems-tag-sciml.github.io/) | Collegezaal |  |
-| 16.40 | Axel Klawonn & Martin Stoll | GAMM COMinDS meeting | Collegezaal |  |
+| 8.30 - 9.00 |  | Registration  | Collegezaal |  |
+| 9.00 - 9.15 | Alexander Heinlein | Opening & Presentation [Strategic Research Initiative *Bridging Numerical Analysis and Machine Learning*](https://www.4tu.nl/ami/Research/sri-bridgingNAML/) | Collegezaal |  |
+| 9.15 - 10.15 | Thomas Richter | [Hybrid Finite Element / Neural Network simulations](assets/pdf/abstract-richter.pdf) | Collegezaal | Alexander Heinlein |
+| 10.15 - 10.45 | Victor Michel-Dansac | [Approximately well-balanced Discontinuous Galerkin methods using bases enriched with Physics-Informed Neural Networks](assets/pdf/abstract-michel_dansac.pdf) | Collegezaal | Alexander Heinlein |
+| 10.45 - 11.00 |  | Coffee break | Collegezaal |  |
+| 11.00 - 11.30 | Taniya Kapoor | [Enhancing Generalization in Physics-Informed Machine Learning with Neural Oscillators](assets/pdf/abstract-kapoor.pdf) | Collegezaal | Janine Weber |
+| 11.30 - 12.00 | Konrad Janik | [Neural ODE for Hamiltonian Systems with Irregular and Noisy Data](assets/pdf/abstract-janik.pdf) | Collegezaal | Janine Weber |
+| 12.00 - 12.30 | Arturo De Marinis | [Training of stable neural ordinary differential equations](assets/pdf/abstract-de_marinis.pdf) | Collegezaal | Janine Weber |
+| 12.30 - 13.00 |  | Lunch break  & <br />[Poster session](assets/pdf/poster-session.pdf) | Collegezaal <br />Betazaal |  |
+| 14.00 - 15.00 | Victorita Dolean | [Parallelization approaches for neural network-based collocation methods](assets/pdf/abstract-dolean.pdf) | Collegezaal | Thomas Richter |
+| 15.00 - 15.30 | Felix Dietrich | [Solving partial differential equations with sampled neural networks](assets/pdf/abstract-dietrich.pdf) | Collegezaal | Thomas Richter |
+| 15.30 - 16.00 |  | Coffee break | Collegezaal |  |
+| 16.00 - 16.30 | Hanno Gottschalk | [Learning to Integrate](assets/pdf/abstract-gottschalk.pdf) | Collegezaal | Axel Klawonn |
+| 16.30 - 16.40  | Axel Klawonn | Presentation [EMS Topical Activity Group *Scientific Machine Learning*](https://ems-tag-sciml.github.io/) | Collegezaal |  |
+| 16.40 - 17.00 | Axel Klawonn & Martin Stoll | GAMM COMinDS meeting | Collegezaal |  |
 | 17.00 | End of the program |  | Collegezaal |  |
 | 18.30 |  | Conference dinner:<br />[MOODZ eten & drinken ](https://www.moodzdelft.nl/)<br />Vesteplein 4 <br/>2611 WG Delft |                            |  |
 
