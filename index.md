@@ -43,10 +43,10 @@ If you have any questions or trouble with the registration, feel free to contact
 
 ### Keynote speakers
 
-+ [**Christoph Brune (University of Twente)**](https://people.utwente.nl/c.brune) <br/> [*The Data-Weight Duality for Deep Learning Inverse Problems*](assets/pdf/abstract-brune.pdf)
-+ [**Victorita Dolean (TU Eindhoven)**](http://www.victoritadolean.com/) <br/> [*Parallelization approaches for neural network-based collocation methods*](assets/pdf/abstract-dolean.pdf)
-+ [**Olga Mula (TU Eindhoven)**](https://omula.gitlab.io/) <br/> [*Reduced Models in Wasserstein Spaces for Forward and Inverse Problems*](assets/pdf/abstract-mula.pdf)
-+ [**Thomas Richter (Otto von Guericke University Magdeburg)**](https://numerics.ovgu.de/) <br/> [*Hybrid Finite Element / Neural Network simulations*](assets/pdf/abstract-richter.pdf)
++ [**Christoph Brune (University of Twente)**](https://people.utwente.nl/c.brune) <br/> [*The Data-Weight Duality for Deep Learning Inverse Problems*](assets/pdf/abstracts/abstract-brune.pdf)
++ [**Victorita Dolean (TU Eindhoven)**](http://www.victoritadolean.com/) <br/> [*Parallelization approaches for neural network-based collocation methods*](assets/pdf/abstracts/abstract-dolean.pdf)
++ [**Olga Mula (TU Eindhoven)**](https://omula.gitlab.io/) <br/> [*Reduced Models in Wasserstein Spaces for Forward and Inverse Problems*](assets/pdf/abstracts/abstract-mula.pdf)
++ [**Thomas Richter (Otto von Guericke University Magdeburg)**](https://numerics.ovgu.de/) <br/> [*Hybrid Finite Element / Neural Network simulations*](assets/pdf/abstracts/abstract-richter.pdf)
 
 ### Thursday, 25. April 2024
 
@@ -54,18 +54,18 @@ If you have any questions or trouble with the registration, feel free to contact
 | :---------- | :---------- | ----------- | ----------- | ----------- |
 | 8.30 - 9.00 |  | Registration  | Collegezaal |  |
 | 9.00 - 9.15 | Alexander Heinlein | Opening & Presentation [Strategic Research Initiative *Bridging Numerical Analysis and Machine Learning*](https://www.4tu.nl/ami/Research/sri-bridgingNAML/) | Collegezaal |  |
-| 9.15 - 10.15 | Thomas Richter | [Hybrid Finite Element / Neural Network simulations](assets/pdf/abstract-richter.pdf) | Collegezaal | Alexander Heinlein |
-| 10.15 - 10.45 | Victor Michel-Dansac | [Approximately well-balanced Discontinuous Galerkin methods using bases enriched with Physics-Informed Neural Networks](assets/pdf/abstract-michel_dansac.pdf) | Collegezaal | Alexander Heinlein |
+| 9.15 - 10.15 | Thomas Richter | [Hybrid Finite Element / Neural Network simulations](assets/pdf/abstracts/abstract-richter.pdf) **([slides](assets/pdf/talks/talk-richter.pdf))** | Collegezaal | Alexander Heinlein |
+| 10.15 - 10.45 | Victor Michel-Dansac | [Approximately well-balanced Discontinuous Galerkin methods using bases enriched with Physics-Informed Neural Networks](assets/pdf/abstracts/abstract-michel_dansac.pdf) | Collegezaal | Alexander Heinlein |
 | 10.45 - 11.00 |  | Coffee break | Collegezaal |  |
-| 11.00 - 11.30 | Taniya Kapoor | [Enhancing Generalization in Physics-Informed Machine Learning with Neural Oscillators](assets/pdf/abstract-kapoor.pdf) | Collegezaal | Janine Weber |
-| 11.30 - 12.00 | Konrad Janik | [Neural ODE for Hamiltonian Systems with Irregular and Noisy Data](assets/pdf/abstract-janik.pdf) | Collegezaal | Janine Weber |
-| 12.00 - 12.30 | Arturo De Marinis | [Training of stable neural ordinary differential equations](assets/pdf/abstract-de_marinis.pdf) | Collegezaal | Janine Weber |
+| 11.00 - 11.30 | Taniya Kapoor | [Enhancing Generalization in Physics-Informed Machine Learning with Neural Oscillators](assets/pdf/abstracts/abstract-kapoor.pdf) | Collegezaal | Janine Weber |
+| 11.30 - 12.00 | Konrad Janik | [Neural ODE for Hamiltonian Systems with Irregular and Noisy Data](assets/pdf/abstracts/abstract-janik.pdf) | Collegezaal | Janine Weber |
+| 12.00 - 12.30 | Arturo De Marinis | [Training of stable neural ordinary differential equations](assets/pdf/abstracts/abstract-de_marinis.pdf) **([slides](assets/pdf/talks/talk-de_marinis.pdf))** | Collegezaal | Janine Weber |
 | 12.30 - 14.00  |  | Lunch break | Collegezaal |  |
 | 13.00 - 14.00 |  | [Poster session](assets/pdf/poster-session.pdf) | Betazaal |  |
-| 14.00 - 15.00 | Victorita Dolean | [Parallelization approaches for neural network-based collocation methods](assets/pdf/abstract-dolean.pdf) | Collegezaal | Thomas Richter |
-| 15.00 - 15.30 | Felix Dietrich | [Solving partial differential equations with sampled neural networks](assets/pdf/abstract-dietrich.pdf) | Collegezaal | Thomas Richter |
+| 14.00 - 15.00 | Victorita Dolean | [Parallelization approaches for neural network-based collocation methods](assets/pdf/abstracts/abstract-dolean.pdf) | Collegezaal | Thomas Richter |
+| 15.00 - 15.30 | Felix Dietrich | [Solving partial differential equations with sampled neural networks](assets/pdf/abstracts/abstract-dietrich.pdf) | Collegezaal | Thomas Richter |
 | 15.30 - 16.00 |  | Coffee break | Collegezaal |  |
-| 16.00 - 16.30 | Hanno Gottschalk | [Learning to Integrate](assets/pdf/abstract-gottschalk.pdf) | Collegezaal | Axel Klawonn |
+| 16.00 - 16.30 | Hanno Gottschalk | [Learning to Integrate](assets/pdf/abstracts/abstract-gottschalk.pdf) | Collegezaal | Axel Klawonn |
 | 16.30 - 16.40  | Axel Klawonn | Presentation [EMS Topical Activity Group *Scientific Machine Learning*](https://ems-tag-sciml.github.io/) | Collegezaal |  |
 | 16.40 - 17.00 | Axel Klawonn & Martin Stoll | GAMM COMinDS meeting | Collegezaal |  |
 | 17.00 | End of the program |  | Collegezaal |  |
@@ -75,30 +75,30 @@ If you have any questions or trouble with the registration, feel free to contact
 
 | Time (CET) | Speaker | Topic / Title | Room | Chair |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 9.30 - 10.30 | Christoph Brune | [The Data-Weight Duality for Deep Learning Inverse Problems](assets/pdf/abstract-brune.pdf) | Collegezaal | Victorita Dolean |
-| 10.30 - 11.00 | Jasper Rou | [Deep Gradient Flow Methods for Option Pricing in Diffusion Models](assets/pdf/abstract-rou.pdf) | Collegezaal | Victorita Dolean |
+| 9.30 - 10.30 | Christoph Brune | [The Data-Weight Duality for Deep Learning Inverse Problems](assets/pdf/abstracts/abstract-brune.pdf) | Collegezaal | Victorita Dolean |
+| 10.30 - 11.00 | Jasper Rou | [Deep Gradient Flow Methods for Option Pricing in Diffusion Models](assets/pdf/abstracts/abstract-rou.pdf) | Collegezaal | Victorita Dolean |
 | 11.00 - 11.30 |  | Coffee break | Collegezaal |  |
-| 11.30 - 12.00 | Florian Boßmann | [Stabilizing neural networks using iterated Graph Laplacian - a seismic impedance example](assets/pdf/abstract-bossmann.pdf) | Collegezaal | Christoph Brune |
-| 12.00 - 12.30 | Alexander Litvinenko | [Computing f-divergences, probability density and characteristic functions in low-rank tensor format](assets/pdf/abstract-litvinenko.pdf) | Collegezaal | Christoph Brune |
+| 11.30 - 12.00 | Florian Boßmann | [Stabilizing neural networks using iterated Graph Laplacian - a seismic impedance example](assets/pdf/abstracts/abstract-bossmann.pdf) | Collegezaal | Christoph Brune |
+| 12.00 - 12.30 | Alexander Litvinenko | [Computing f-divergences, probability density and characteristic functions in low-rank tensor format](assets/pdf/abstracts/abstract-litvinenko.pdf) **([slides](assets/pdf/talks/talk-litvinenko.pdf))** | Collegezaal | Christoph Brune |
 | 12.30 - 13.30 |         | Lunch break | Collegezaal |   |
-| 13.30 - 14.30 | Olga Mula | [Reduced Models in Wasserstein Spaces for Forward and Inverse Problems](assets/pdf/abstract-mula.pdf) | Collegezaal | Martin Stoll |
-| 14.30 - 15.00 | Francesco Ferranti | [Response feature-based modeling for small-data machine learning in electromagnetic design](assets/pdf/abstract-ferranti.pdf) | Collegezaal | Martin Stoll |
+| 13.30 - 14.30 | Olga Mula | [Reduced Models in Wasserstein Spaces for Forward and Inverse Problems](assets/pdf/abstracts/abstract-mula.pdf) | Collegezaal | Martin Stoll |
+| 14.30 - 15.00 | Francesco Ferranti | [Response feature-based modeling for small-data machine learning in electromagnetic design](assets/pdf/abstracts/abstract-ferranti.pdf) | Collegezaal | Martin Stoll |
 | 15.00 |  | Closing with coffee and snacks | Collegezaal |  |
 
 ### Poster session
 
 | Presenter              | Title                                                        |
 | ---------------------- | ------------------------------------------------------------ |
-| Junaid Akhter          | [Pitfalls to avoid while using multiobjective optimization for machine learning](assets/pdf/posters/poster-akhter.pdf) |
-| Amaury Bélières Frendo | [Geometric shape optimization for Dirichlet energy with physics informed and symplectic neural networks](assets/pdf/posters/poster-belieres.pdf) |
-| Roberto Bentivoglio    | [Multi-scale hydraulic-based graph neural networks: generalizing rapid flood mapping to irregular meshes and time-varying boundary condition](assets/pdf/posters/poster-bentivoglio.pdf) |
-| Jan Blechschmidt       | [A physics-informed DeepONet model for the solution of quantum graphs](assets/pdf/posters/poster-blechschmidt.pdf) |
-| Piero Deidda           | [Nonlinear joint spectral radius of cone order preserving functions](assets/pdf/posters/poster-deidda.pdf) |
-| Antoine Lechevallier   | [Hybrid Newton method for the acceleration of well events handling in the numerical simulation of CO2 Storage](assets/pdf/posters/poster-lechevallier.pdf) |
-| Erion Morina           | [On the growth of parameters of approximating neural networks](assets/pdf/posters/poster-morina.pdf) |
-| Moreno Pintore         | [An introduction to the lowest-order Neural Approximated Virtual Element Method](assets/pdf/posters/poster-pintore.pdf) |
-| Yong Shang             | [Randomized neural networks with Petrov–Galerkin methods for solving linear elasticity problem](assets/pdf/posters/poster-shang.pdf) |
-| Corné Verburg          | [High-resolution image segmentation with U-Net-based segmentation CNN on multiple GPUs](assets/pdf/posters/poster-verburg.pdf) |
+| Junaid Akhter          | [Pitfalls to avoid while using multiobjective optimization for machine learning](assets/pdf/abstracts/posters/poster-akhter.pdf) |
+| Amaury Bélières Frendo | [Geometric shape optimization for Dirichlet energy with physics informed and symplectic neural networks](assets/pdf/abstracts/posters/poster-belieres.pdf) |
+| Roberto Bentivoglio    | [Multi-scale hydraulic-based graph neural networks: generalizing rapid flood mapping to irregular meshes and time-varying boundary condition](assets/pdf/abstracts/posters/poster-bentivoglio.pdf) |
+| Jan Blechschmidt       | [A physics-informed DeepONet model for the solution of quantum graphs](assets/pdf/abstracts/posters/poster-blechschmidt.pdf) |
+| Piero Deidda           | [Nonlinear joint spectral radius of cone order preserving functions](assets/pdf/abstracts/posters/poster-deidda.pdf) |
+| Antoine Lechevallier   | [Hybrid Newton method for the acceleration of well events handling in the numerical simulation of CO2 Storage](assets/pdf/abstracts/posters/poster-lechevallier.pdf) |
+| Erion Morina           | [On the growth of parameters of approximating neural networks](assets/pdf/abstracts/posters/poster-morina.pdf) |
+| Moreno Pintore         | [An introduction to the lowest-order Neural Approximated Virtual Element Method](assets/pdf/abstracts/posters/poster-pintore.pdf) |
+| Yong Shang             | [Randomized neural networks with Petrov–Galerkin methods for solving linear elasticity problem](assets/pdf/abstracts/posters/poster-shang.pdf) |
+| Corné Verburg          | [High-resolution image segmentation with U-Net-based segmentation CNN on multiple GPUs](assets/pdf/abstracts/posters/poster-verburg.pdf) **([poster](assets/pdf/posters/poster-verburg.pdf))** |
 
 ## Venue & Accommodation
 
