@@ -20,7 +20,7 @@ layout: home
 
 ## About the Workshop
 
-Welcome to the **Workshop on Computational and Mathematical Methods in Data Science 2024**. It is a meeting of the Dutch scientific machine learning community, the 2024 edition of the annual workshop of the [GAMM Activity Group on “Computational and Mathematical Methods in Data Science” (COMinDS)](https://www.tu-chemnitz.de/mathematik/wire/cominds/), as well as the first acitivity of the [EMS Topical Activity Group Scientific Machine Learning](https://ems-tag-sciml.github.io/). The workshop is co-organized by the GAMM Activity Group and the [Strategic Research Initiative "Bridging Numerical Analysis and Machine Learning"](https://www.4tu.nl/ami/Research/sri-bridgingNAML/) of the [4TU Applied Mathematics Institute (AMI)](https://www.4tu.nl/ami/). The workshop will be hosted by [Delft University of Technology](http://www.tudelft.nl/en/) and take place on April 25 and 26, 2024.
+Welcome to the **Workshop on Computational and Mathematical Methods in Data Science 2024**. It is a meeting of the Dutch scientific machine learning community, the 2024 edition of the annual workshop of the [GAMM Activity Group on “Computational and Mathematical Methods in Data Science” (COMinDS)](https://www.tu-chemnitz.de/mathematik/wire/cominds/), as well as the first activity of the [EMS Topical Activity Group Scientific Machine Learning](https://ems-tag-sciml.github.io/). The workshop is co-organized by the GAMM Activity Group and the [Strategic Research Initiative "Bridging Numerical Analysis and Machine Learning"](https://www.4tu.nl/ami/Research/sri-bridgingNAML/) of the [4TU Applied Mathematics Institute (AMI)](https://www.4tu.nl/ami/). The workshop will be hosted by [Delft University of Technology](http://www.tudelft.nl/en/) and take place on April 25 and 26, 2024.
 
 This workshop brings together scientists from mathematics, computer science, and application areas working on computational and mathematical methods in data science.
 
@@ -92,7 +92,7 @@ If you have any questions or trouble with the registration, feel free to contact
 | Junaid Akhter          | [Pitfalls to avoid while using multiobjective optimization for machine learning](assets/pdf/abstracts/posters/poster-akhter.pdf) |
 | Amaury Bélières Frendo | [Geometric shape optimization for Dirichlet energy with physics informed and symplectic neural networks](assets/pdf/abstracts/posters/poster-belieres.pdf) |
 | Roberto Bentivoglio    | [Multi-scale hydraulic-based graph neural networks: generalizing rapid flood mapping to irregular meshes and time-varying boundary condition](assets/pdf/abstracts/posters/poster-bentivoglio.pdf) |
-| Jan Blechschmidt       | [A physics-informed DeepONet model for the solution of quantum graphs](assets/pdf/abstracts/posters/poster-blechschmidt.pdf) |
+| Jan Blechschmidt       | [A physics-informed DeepONet model for the solution of quantum graphs](assets/pdf/abstracts/posters/poster-blechschmidt.pdf) **([poster](assets/pdf/posters/poster-blechschmidt.pdf))** |
 | Piero Deidda           | [Nonlinear joint spectral radius of cone order preserving functions](assets/pdf/abstracts/posters/poster-deidda.pdf) |
 | Antoine Lechevallier   | [Hybrid Newton method for the acceleration of well events handling in the numerical simulation of CO2 Storage](assets/pdf/abstracts/posters/poster-lechevallier.pdf) |
 | Erion Morina           | [On the growth of parameters of approximating neural networks](assets/pdf/abstracts/posters/poster-morina.pdf) **([poster](assets/pdf/posters/poster-morina.pdf))** |
