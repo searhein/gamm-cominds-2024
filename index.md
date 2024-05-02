@@ -46,9 +46,9 @@ If you have any questions or trouble with the registration, feel free to contact
 ### Keynote speakers
 
 + [**Christoph Brune (University of Twente)**](https://people.utwente.nl/c.brune) <br/> [*The Data-Weight Duality for Deep Learning Inverse Problems*](assets/pdf/abstracts/abstract-brune.pdf)
-+ [**Victorita Dolean (TU Eindhoven)**](http://www.victoritadolean.com/) <br/> [*Parallelization approaches for neural network-based collocation methods*](assets/pdf/abstracts/abstract-dolean.pdf)
++ [**Victorita Dolean (TU Eindhoven)**](http://www.victoritadolean.com/) <br/> [*Parallelization approaches for neural network-based collocation methods*](assets/pdf/abstracts/abstract-dolean.pdf) **([slides](assets/pdf/talks/talk-dolean.pdf))**
 + [**Olga Mula (TU Eindhoven)**](https://omula.gitlab.io/) <br/> [*Reduced Models in Wasserstein Spaces for Forward and Inverse Problems*](assets/pdf/abstracts/abstract-mula.pdf)
-+ [**Thomas Richter (Otto von Guericke University Magdeburg)**](https://numerics.ovgu.de/) <br/> [*Hybrid Finite Element / Neural Network simulations*](assets/pdf/abstracts/abstract-richter.pdf)
++ [**Thomas Richter (Otto von Guericke University Magdeburg)**](https://numerics.ovgu.de/) <br/> [*Hybrid Finite Element / Neural Network simulations*](assets/pdf/abstracts/abstract-richter.pdf) **([slides](assets/pdf/talks/talk-richter.pdf))**
 
 ### Thursday, 25. April 2024
 
@@ -64,7 +64,7 @@ If you have any questions or trouble with the registration, feel free to contact
 | 12.00 - 12.30 | Arturo De Marinis | [Training of stable neural ordinary differential equations](assets/pdf/abstracts/abstract-de_marinis.pdf) **([slides](assets/pdf/talks/talk-de_marinis.pdf))** | Collegezaal | Janine Weber |
 | 12.30 - 14.00  |  | Lunch break | Collegezaal |  |
 | 13.00 - 14.00 |  | [Poster session](assets/pdf/poster-session.pdf) | Betazaal |  |
-| 14.00 - 15.00 | Victorita Dolean | [Parallelization approaches for neural network-based collocation methods](assets/pdf/abstracts/abstract-dolean.pdf) | Collegezaal | Thomas Richter |
+| 14.00 - 15.00 | Victorita Dolean | [Parallelization approaches for neural network-based collocation methods](assets/pdf/abstracts/abstract-dolean.pdf) **([slides](assets/pdf/talks/talk-dolean.pdf))** | Collegezaal | Thomas Richter |
 | 15.00 - 15.30 | Felix Dietrich | [Solving partial differential equations with sampled neural networks](assets/pdf/abstracts/abstract-dietrich.pdf) | Collegezaal | Thomas Richter |
 | 15.30 - 16.00 |  | Coffee break | Collegezaal |  |
 | 16.00 - 16.30 | Hanno Gottschalk | [Learning to Integrate](assets/pdf/abstracts/abstract-gottschalk.pdf) **([slides](assets/pdf/talks/talk-gottschalk.pdf))** | Collegezaal | Axel Klawonn |
