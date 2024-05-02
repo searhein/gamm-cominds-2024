@@ -29,6 +29,8 @@ The meeting will be organized under the support of
 + the [4TU Applied Mathematics Institute (AMI)](https://www.4tu.nl/ami/) and
 + the [TU Delft Institute for Computational Science and Engineering (DCSE)](https://www.tudelft.nl/en/tu-delft-institute-for-computational-science-and-engineering).
 
+<img class="none-image" src="assets/img/group-photo.jpg" alt="Group photo in the Collegezaal"/>
+
 ## Registration
 
 The registration for the GAMM COMinDS Workshop 2024 is **closed**.
