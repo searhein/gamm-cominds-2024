@@ -92,7 +92,7 @@ If you have any questions or trouble with the registration, feel free to contact
 | Presenter              | Title                                                        |
 | ---------------------- | ------------------------------------------------------------ |
 | Junaid Akhter          | [Pitfalls to avoid while using multiobjective optimization for machine learning](assets/pdf/abstracts/posters/poster-akhter.pdf) |
-| Amaury Bélières Frendo | [Geometric shape optimization for Dirichlet energy with physics informed and symplectic neural networks](assets/pdf/abstracts/posters/poster-belieres.pdf) |
+| Amaury Bélières Frendo | [Geometric shape optimization for Dirichlet energy with physics informed and symplectic neural networks](assets/pdf/abstracts/posters/poster-belieres.pdf) **([poster](assets/pdf/posters/poster-belieres.pdf))** |
 | Roberto Bentivoglio    | [Multi-scale hydraulic-based graph neural networks: generalizing rapid flood mapping to irregular meshes and time-varying boundary condition](assets/pdf/abstracts/posters/poster-bentivoglio.pdf) |
 | Jan Blechschmidt       | [A physics-informed DeepONet model for the solution of quantum graphs](assets/pdf/abstracts/posters/poster-blechschmidt.pdf) **([poster](assets/pdf/posters/poster-blechschmidt.pdf))** |
 | Piero Deidda           | [Nonlinear joint spectral radius of cone order preserving functions](assets/pdf/abstracts/posters/poster-deidda.pdf) |
